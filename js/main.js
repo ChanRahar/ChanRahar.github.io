@@ -95,7 +95,7 @@
 		var typed = new Typed('.text-slider', {
 			strings: typed_strings.split(','),
 			typeSpeed: 80,
-			loop: false,
+			loop: true,
 			backDelay: 1100,
 			backSpeed: 30
 		});
