@@ -719,6 +719,7 @@ a:hover {
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   background-color: #fff;
+  position: relative;
 }
 
 .work-box:hover img {
